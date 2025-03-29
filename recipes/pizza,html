@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza</title>
+</head>
+
+<body>
+    <h1>Pizza</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ1iyPUDZrmZfd99rRistt6oOXSTws2vNUw&s"
+        alt="Image of a Pizza" height="510" width="510">
+    <h2>Description</h2>
+    <p>Pizza is a beloved dish known for its crispy yet chewy base, topped with a rich and flavorful sauce. The
+        combination of textures, from the golden crust to the gooey, bubbling layer on top, makes each bite satisfying.
+        Whether cooked in a traditional wood-fired oven or a modern kitchen, it brings out a perfect balance of flavors.
+        The dish has evolved into countless variations, adapting to different tastes and styles around the world.</p>
+    <p>One of the reasons pizza is so popular is its versatility. It can be customized with a wide range of toppings,
+        making it a favorite for both casual meals and special gatherings. From thin and crispy to thick and fluffy, the
+        crust style can change the entire experience. Whether enjoyed fresh out of the oven or as a next-day treat,
+        pizza remains a timeless comfort food loved by many.</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Pizza dough</li>
+        <li>Tomato sauce</li>
+        <li>Mozzarella cheese</li>
+        <li>Olive oil</li>
+        <li>Garlic and herbs (oregano, basil)</li>
+        <li>Pepperoni or other toppings</li>
+        <li>Vegetables (bell peppers, mushrooms, onions)</li>
+    </ul>
+
+    <h2>Preparation</h2>
+    <ol>
+        <li><strong>Preheat the oven</strong> - Set it to the recommended temperature (475-500°F or 245-260°C).</li>
+        <li><strong>Prepare the dough</strong> - Roll out the pizza dough to your desired size and thickness.</li>
+        <li><strong>Prepare the sauce</strong> - Spread a layer of tomato sauce over the dough, leaving a small border for the crust.</li>
+        <li><strong>Add toppings</strong> - Sprinkle mozzarella cheese over the sauce, then add any other toppings like pepperoni, vegetables, or herbs.</li>
+        <li><strong>Bake the pizza</strong> - Place the pizza in the preheated oven and bake for about 10-15 minutes, or until the crust is golden and the cheese is bubbly.</li>
+        <li><strong>Slice and serve</strong> - Let the pizza cool for a couple of minutes, then slice and enjoy!</li>
+    </ol>
+
+    <a href="../index.html">Home</a>
+</body>
+
+</html>
